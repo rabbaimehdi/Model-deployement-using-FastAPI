@@ -8,7 +8,7 @@ This project builds a model for diabities prediction using SVM Classifier, then 
 
 # Installation
 
-* Clone the project using `git clone`
+* Clone the project using `git clone https://github.com/rabbaimehdi/Model-deployement-using-FastAPI.git`
 * `cd` into the project directory
 * run `pip install -r requirements.txt`
 * To run the app : run `python3 api.py` or `uvicorn api:api` ( to run the app in debug mode run `uvicorn api:api --reload`) 
